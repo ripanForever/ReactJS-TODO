@@ -1,8 +1,0 @@
----
-applications:
-- path: build/
-  name: ReactJS-TODO
-  buildpack: nodejs_buildpack
-  memory: 256M
-  instances: 1
-  random-route: true
