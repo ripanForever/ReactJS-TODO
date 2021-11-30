@@ -1,0 +1,8 @@
+---
+applications:
+  - name: ReactJS-TODO
+memory: 264M
+path: build/
+buildpack: staticfile_buildpack 
+routes:
+  - route: reactjs-todo.us-south.cf.appdomain.cloud
