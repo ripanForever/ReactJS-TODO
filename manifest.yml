@@ -1,7 +1,0 @@
----
-version: 1
-applications:
-- name: ReactJS-TODO
-  memory: 256M
-  instances: 1
-  route: react-js-todo-bsh.us-south.cf.appdomain.cloud
