@@ -1,0 +1,5 @@
+---
+applications:
+  - name: ReactJS-TODO
+path: build/ 
+memory: 264M
